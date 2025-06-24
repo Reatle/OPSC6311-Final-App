@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1088065463854",
+    "firebase_url": "https://kmgcdatabase-default-rtdb.firebaseio.com",
+    "project_id": "kmgcdatabase",
+    "storage_bucket": "kmgcdatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088065463854:android:90e595c0febd66a1b921bf",
+        "android_client_info": {
+          "package_name": "com.example.bytebalanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJG93LuGwR17T2HIhF9wm3jGuI8pFX9YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088065463854:android:253f6199e8a99f5cb921bf",
+        "android_client_info": {
+          "package_name": "com.example.kmgcapplication2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJG93LuGwR17T2HIhF9wm3jGuI8pFX9YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
